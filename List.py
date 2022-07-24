@@ -47,6 +47,29 @@ print (l4)
 l5 = sorted(l4) # l4 is not changed. it just returns sorted l4
 
 
+'''
+생성
+=list()
+=[]
 
+읽기 (read/indexing)
+[x]
+.index(x)
+
+추가
+append(x)
+insert(i,x)
+extend(list)
+
+삭제
+pop()
+pop(i)
+remove(x)
+
+정렬
+.sort()
+.sort(reverse=True)
+.sorted(list)
+'''
 
 
